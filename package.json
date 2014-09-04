@@ -1,0 +1,26 @@
+{
+  "name": "obx",
+  "version": "0.0.1",
+  "description": "Simple inherit helper with named constructor",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fi11/obx.git"
+  },
+  "keywords": [
+    "prototype",
+    "object",
+    "inheritance",
+    "class"
+  ],
+  "bugs": {
+    "url": "https://github.com/fi11/obx/issues"
+  },
+  "homepage": "https://github.com/fi11/obx",
+  "author": "Pavel Silin",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "1.21.4",
+    "chai": "1.9.1"
+  }
+}
