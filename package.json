@@ -1,7 +1,7 @@
 {
   "name": "obx",
-  "version": "0.0.1",
-  "description": "Simple inherit helper with named constructor",
+  "version": "0.0.2",
+  "description": "Simple inheritance helper with named constructor",
   "main": "index",
   "repository": {
     "type": "git",
